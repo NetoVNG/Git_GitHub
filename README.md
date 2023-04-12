@@ -73,8 +73,8 @@ Depois de bifurcar um repositório e fazer alterações, você pode criar uma so
 2. Clique no botão "Nova solicitação pull".
 3. Dê um nome e uma descrição ao seu pull request.
 4. Clique no botão "Criar pull request".
-5. Aguarde até que o proprietário original do repositório revise e mescle suas alterações.
+5. Aguarde até que o proprietário original do repositório revise e mescle suas alterações
 
 ## **Conclusão**
 
-Esta é apenas uma introdução ao Git e ao GitHub, mas com essas noções básicas, você pode começar a usar o controle de versão em seus projetos. Para mais informações, confira a documentação do Git e não se esqueça de dar um like neste post e se inscrever no meu canal!
+Esta é apenas uma introdução ao Git e ao GitHub, mas com essas noções básicas, você pode começar a usar o controle de versão em seus projetos. Para mais informações, confira a [documentação do Git](https://git-scm.com/docs/git/pt_BR)
