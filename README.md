@@ -8,7 +8,7 @@ Git é um sistema de controle de versão distribuído criado por Linus Torvalds 
 
 Para instalar o Git no seu computador, siga estas etapas:
 
-1. Acesse o site do Git ( **[https://git-scm.com/downloads](https://git-scm.com/downloads)**).    
+1. Acesse o site do [Git](https://git-scm.com/downloads) .
 2. Selecione a versão apropriada para o seu sistema operacional e baixe o instalador.
 3. Execute o instalador e siga as instruções.
 
